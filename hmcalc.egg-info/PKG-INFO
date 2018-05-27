@@ -1,10 +1,11 @@
 Metadata-Version: 1.0
 Name: hmcalc
-Version: 0.1
+Version: 0.2
 Summary: calculation packages
 Home-page: https://github.com/buczaq/python-packages
 Author: Krzysztof Buczak
 Author-email: 226153@student.pwr.edu.pl
 License: MIT
-Description: UNKNOWN
+Description: sample text
+        
 Platform: UNKNOWN

@@ -1,3 +1,4 @@
+README.md
 setup.py
 calc_pack/__init__.py
 calc_pack/hmcalc.py
