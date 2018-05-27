@@ -6,7 +6,7 @@ setup(
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='calculation packages',
-    url='https://github.com/BillMills/python-package-example',
+    url='https://github.com/buczaq/python-packages',
     author='Krzysztof Buczak',
     author_email='226153@student.pwr.edu.pl'
 )
