@@ -2,7 +2,7 @@
 
 import sys, os
 
-def lll('.'):
+def lll(dirname = '.'):
     counter_symlinks = 0
     counter_filelinks = 0
     for name in os.listdir(dirname):
