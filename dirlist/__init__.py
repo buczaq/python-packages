@@ -1,1 +1,1 @@
-from . import dirlisr
+from . import dirlist
